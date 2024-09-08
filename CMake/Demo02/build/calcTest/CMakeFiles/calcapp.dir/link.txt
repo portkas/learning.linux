@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ CMakeFiles/calcapp.dir/calctest.cpp.o -o /home/linux/Desktop/Missing-Semester/CMake/Demo02/bin/calcapp   -L/home/linux/Desktop/Missing-Semester/CMake/Demo02/lib  -Wl,-rpath,/home/linux/Desktop/Missing-Semester/CMake/Demo02/lib /home/linux/Desktop/Missing-Semester/CMake/Demo02/lib/libcalc.so 

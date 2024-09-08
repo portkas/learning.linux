@@ -1,0 +1,14 @@
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/CMakeFiles/edit_cache.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/CMakeFiles/rebuild_cache.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/calc/CMakeFiles/calc.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/calc/CMakeFiles/edit_cache.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/calc/CMakeFiles/rebuild_cache.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/sort/CMakeFiles/sort.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/sort/CMakeFiles/edit_cache.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/sort/CMakeFiles/rebuild_cache.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/sortTest/CMakeFiles/sortapp.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/sortTest/CMakeFiles/edit_cache.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/sortTest/CMakeFiles/rebuild_cache.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/calcTest/CMakeFiles/calcapp.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/calcTest/CMakeFiles/edit_cache.dir
+/home/linux/Desktop/Missing-Semester/CMake/Demo02/build/calcTest/CMakeFiles/rebuild_cache.dir

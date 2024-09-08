@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -fPIC -shared -Wl,-soname,libcalc.so -o /home/linux/Desktop/Missing-Semester/CMake/Demo02/lib/libcalc.so CMakeFiles/calc.dir/add.cpp.o CMakeFiles/calc.dir/div.cpp.o CMakeFiles/calc.dir/mult.cpp.o CMakeFiles/calc.dir/sub.cpp.o 

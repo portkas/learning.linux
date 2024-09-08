@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -fPIC -shared -Wl,-soname,libsort.so -o /home/linux/Desktop/Missing-Semester/CMake/Demo02/lib/libsort.so CMakeFiles/sort.dir/bubbleSort.cpp.o CMakeFiles/sort.dir/insertionSort.cpp.o CMakeFiles/sort.dir/selectionSort.cpp.o 
