@@ -5,6 +5,10 @@ project(Demo01)
 # 指定C++标准
 set(CMAKE_CXX_STANDARD 11)
 
+SET(CMAKE_BUILD_TYPE "Debug")
+SET(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g2 -ggdb")
+SET(CMAKE_CXX_FLAGS_RELEASE "$ENV{CXXFLAGS} -O3 -Wall")
+
 # 搜索源文件建立列表
 aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR}/calc CALC_SRC)
 aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR}/sort SORT_SRC)

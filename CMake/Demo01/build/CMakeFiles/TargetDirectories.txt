@@ -1,0 +1,3 @@
+/home/zhm/Desktop/Linux/CMake/Demo01/build/CMakeFiles/app.dir
+/home/zhm/Desktop/Linux/CMake/Demo01/build/CMakeFiles/edit_cache.dir
+/home/zhm/Desktop/Linux/CMake/Demo01/build/CMakeFiles/rebuild_cache.dir

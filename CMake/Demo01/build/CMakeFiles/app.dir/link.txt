@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -Wall -g2 -ggdb CMakeFiles/app.dir/main.cpp.o CMakeFiles/app.dir/calc/add.cpp.o CMakeFiles/app.dir/calc/div.cpp.o CMakeFiles/app.dir/calc/mult.cpp.o CMakeFiles/app.dir/calc/sub.cpp.o CMakeFiles/app.dir/sort/bubbleSort.cpp.o CMakeFiles/app.dir/sort/insertionSort.cpp.o CMakeFiles/app.dir/sort/selectionSort.cpp.o -o app 
