@@ -54,7 +54,7 @@ void Brass::ViewAcct() const{
     format initialState = setFormat();
     precis prec = cout.precision(2);
     cout << "Client: " << fullName << endl;
-    cout << "Account Number: " << acctNum << endl;
+    cout << "Account Number: " << acctName << endl;
     cout << "Balance: $" << balance << endl;
     restore(initialState, prec);
 }

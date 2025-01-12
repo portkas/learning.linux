@@ -1,7 +1,7 @@
 #ifndef BRASS_H_
 #define BRASS_H_
 #include <string>
-class Brass{
+class Brass {
 private:
     std::string fullName;   // 账户持有人全名
     long acctName;          // 账户号码
@@ -9,7 +9,7 @@ private:
 
 public:
     Brass(const std::string &s = "Nullbody", long an = -1,
-            doubele bal = 0.0);
+            double bal = 0.0);
     void Deposit(double amt);           // 存款
     virtual void Withdraw(double amt);  // 取款
     double Balance() const;             // 查询账户余额
