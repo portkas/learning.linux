@@ -1,2 +1,35 @@
-/build
-.vscode
+# 忽略构建目录
+/build/
+out/
+bin/
+obj/
+
+# 忽略 CMake 生成的文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 忽略 Visual Studio Code 生成的文件
+.vscode/
+*.code-workspace
+
+# 忽略编译生成的文件
+*.o
+*.a
+*.so
+*.so.*
+*.a.*
+*.lib
+*.pdb
+*.exe
+*.dll
+
+# 忽略临时文件
+*.tmp
+*.swp
+*.swo
+
+# 忽略用户特定的配置文件
+.settings/
+.history/
