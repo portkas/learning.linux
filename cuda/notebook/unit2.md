@@ -10,3 +10,8 @@ categories:
 5. 启动一个CUDA核函数
 
 # CUDA编程模型概述
+
+
+1. grid 2D block 2D
+2. grid 2D block 1D
+3. grid 1D block1D
